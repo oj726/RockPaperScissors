@@ -2,214 +2,214 @@
 <items version="2" >
 
     <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-9e2ffaf453a7bb1b1de9a6dbd73077037aca0bd1.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-a02d2cff8d893ef25de0c1e9b1f58729adce51a3.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-de1217a50bb4efc1ef7b0b059f79af7eb3e87d25.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-fd566e3b1ae70f356e72c8d574ebfb55411c5738.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-bc6898900463cb92b21cba0e38e788ba3c3c77d9.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-2c6b779350320774db886b628bd9e0c38f7dee74.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-dadddf837ed915244d5255b8cb8e995a1186ad3c.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-a4e715bc2dd25aba36b07207a6ec7bbc6fb47fcf.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-6477ff57c0ada4464d6ea9889293c3c5597d2a06.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-358839d835db6dcd388b0f668621cf0364c195b2.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-33c60f6155120f6f7e505951a4a49e4cfce15ee5.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-b947729b00355b5aa4bf29f8b14b66fb60a2481d.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-93b7bfe7fd73ab411c6b376c094faad730dd4eb8.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-31cd41241719b8a4d5a9c58274a629ed2d42a2a3.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-41af8b7a809b7ea750fc2b391ed8de8900993180.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-28c5f372dba3e086cfedd03eea4dbca68a834ea8.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-87faea14fad460b228516a91d7802a6cde47be83.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-6b14d04d66a8feaf7a58fda508fe5b4056421cf6.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-e52074a618ea8085541ae8355dc11f158eb80809.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-e9ca2bbd8ca3f667b7b795d44a446bc7d5114817.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-3411c86b61906801013ae9bed0279e6e4f6ace7c.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-389069dd11d23d0117e4e83ac3b23eeb964cd743.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-9ce983c577a1a46d1948075477f40c28956b9c4f.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-bba89c6ea77cb6f14f9fbd3ea7fdaf19d72cfda4.jar" />
-    </item>
-    <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-71a470e3e2cf80ca40a13ef116c3a3b35b4f66b4.jar" />
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-313be0baf85c1912940a88430993fb7719929220.jar" />
     </item>
     <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-cc35d103f8ef38459e8438ee029cd7706d18ed35.jar" />
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-cd9133bca1bab914d164de16eb70c0945f7c7528.jar" />
     </item>
     <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.xgc1986.android/ripplebutton/0.4.1/jars/classes.jar"
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="fe4a82d37ae0d121dda801c9d7b9350c9a6867a6">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-43af76531a37ec85a8dd34a466c72fab8f05a65d.jar" />
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-355b62c5b9898b544cdabc16c6e1c1c7b71676a8.jar" />
     </item>
     <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-881d276af708e165cb77f8978ca740e94b15a7f6.jar" />
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-d536e8c5771d0bde06234def2e566686cee6cf2c.jar" />
     </item>
     <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-50d19de4304c34bb2b393bc07687d8167b2b7c9f.jar" />
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-d30c22c33d6da4fee48ec2355f9e4fbbc9c0b3d5.jar" />
     </item>
     <item
-        jar="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="04de44f90606c77f3b28cf44861f306290505aac">
-        <dex dex="/Users/njaunich/Desktop/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-3a6f558d9857aa68a0f2c5ef1b1bbbcd2e8b4310.jar" />
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-dee0ceb836dfab6e175d0a30bf31f119a0b2f271.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-c766a436dc8466f0ccd3898816179fb6f6745271.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-4798450c18b582d14389331e9c188c3d958c2a59.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-934099b155b0e6f69cf6c443e8d88bedbe8d9794.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-5f929a8bb190f60b68ca93a82eebfae52e616016.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-2350519ecf0c433d41b24ba4874ed3196219ded5.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.xgc1986.android/ripplebutton/0.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fe4a82d37ae0d121dda801c9d7b9350c9a6867a6">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-1df10f059dd750fa8824b2ae9cd42a81f936e242.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-c779c03ae04fb522396b0810fe18495a7971083a.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-c08eb984019f2a2130a8ebf083c257543e96a502.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-43c1bf5817a0b2026c36aa21a23e09888b088861.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-218cb14abe36500131a29664c2851c934464b86e.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-21a32c13f7a82eb85e8c497a70563a180e3df5db.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-0f03d5fde8b922418e9c7b0d4bb655eef28d0028.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-93acd2d6e8bf04aad25c196b8585a784e42fedd1.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-546918af18055725917a4d02392b20e177a66718.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-a5390ebc3dcdb181235b7c2f915044e643e00eb9.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-13eb6ba6b1e63749a6685cfe3380c4a7c5556e19.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-8a1d15d907b3e10a6e30f81c7c739c5c5cd79280.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-da5dec679b4eb6d7064c4b2fd5451313135e50e0.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-ac76f7c591afcfe708e58085f2bda5b4cc2c0ce6.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-55f3ef5755bc63751017f3a96c22201e9d57ff42.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-611bd167e2d3abeda0b99d6cff01aa3d2a6a4ac7.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-392fd56638ebe6f3aecbf61f3d5b91e756219efa.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-075d42fe22454d01c30bfdead13ea48c9e0477cf.jar" />
+    </item>
+    <item
+        jar="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/oscarjuarez/Documents/AndroidStudioProjects/RockPaperScissors/app/build/intermediates/pre-dexed/debug/classes-7970fa9509002fa209a5e849600cf0bab7c237cb.jar" />
     </item>
 
 </items>
