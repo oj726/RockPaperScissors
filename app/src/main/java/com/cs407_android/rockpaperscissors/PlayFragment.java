@@ -3,6 +3,7 @@ package com.cs407_android.rockpaperscissors;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.app.Fragment;
@@ -106,9 +107,27 @@ public class PlayFragment extends Fragment {
 
                 if(player1Choice == null) {
                    //TODO player 1 chose Rock
+                    getFragmentManager()
+                            .beginTransaction()
+                            .replace(R.id.main_fragment_container, PlayFragment.newInstance("rock", null))
+                            .addToBackStack(null)
+                            .commit();
                 }
                 else{
                     //TODO player 2 chose Rock
+                    player2Choice = "rock";
+
+                    if(player1Choice == "paper"){
+                        displayWinner(ARG_PLAYER_ONE);
+                    }
+                    else if(player1Choice == "scissors"){
+                        displayWinner(ARG_PLAYER_TWO);
+                    }
+                    else{
+                        displayWinner("Tied. Best 2 outta 3?");
+                    }
+
+
                 }
 
             }
@@ -120,10 +139,23 @@ public class PlayFragment extends Fragment {
 
                 if(player1Choice == null) {
                     //TODO
-
+                    getFragmentManager()
+                            .beginTransaction()
+                            .replace(R.id.main_fragment_container, PlayFragment.newInstance("paper", null))
+                            .addToBackStack(null)
+                            .commit();
                 }
                 else{
                     //TODO
+                    if(player1Choice == "scissors"){
+                        displayWinner(ARG_PLAYER_ONE);
+                    }
+                    else if(player1Choice == "rock"){
+                        displayWinner(ARG_PLAYER_TWO);
+                    }
+                    else{
+                        displayWinner("Tied. Best 2 outta 3?");
+                    }
 
                 }
             }
@@ -135,11 +167,23 @@ public class PlayFragment extends Fragment {
 
                 if(player1Choice == null) {
                     //TODO
-
+                    getFragmentManager()
+                            .beginTransaction()
+                            .replace(R.id.main_fragment_container, PlayFragment.newInstance("scissors", null))
+                            .addToBackStack(null)
+                            .commit();
                 }
                 else{
                     //TODO
-
+                    if(player1Choice == "rock"){
+                        displayWinner(ARG_PLAYER_ONE);
+                    }
+                    else if(player1Choice == "paper"){
+                        displayWinner(ARG_PLAYER_TWO);
+                    }
+                    else{
+                        displayWinner("Tied. Best 2 outta 3?");
+                    }
                 }
             }
         });
@@ -159,12 +203,16 @@ public class PlayFragment extends Fragment {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         //TODO start a rematch!
+                        Intent rematch = new Intent(getContext(), PlayActivity.class);
+                        startActivity(rematch);
                     }
                 })
                 .setNegativeButton("Quit", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         //TODO back out the the start screen
+                        Intent quit = new Intent(getContext(), MainActivity.class);
+                        startActivity(quit);
                     }
                 })
                 .show();
