@@ -117,10 +117,10 @@ public class PlayFragment extends Fragment {
                     //TODO player 2 chose Rock
                     player2Choice = "rock";
 
-                    if(player1Choice == "paper"){
+                    if(player1Choice.equals( "paper")){
                         displayWinner(ARG_PLAYER_ONE);
                     }
-                    else if(player1Choice == "scissors"){
+                    else if(player1Choice.equals("scissors")){
                         displayWinner(ARG_PLAYER_TWO);
                     }
                     else{
@@ -147,10 +147,10 @@ public class PlayFragment extends Fragment {
                 }
                 else{
                     //TODO
-                    if(player1Choice == "scissors"){
+                    if(player1Choice.equals("scissors")){
                         displayWinner(ARG_PLAYER_ONE);
                     }
-                    else if(player1Choice == "rock"){
+                    else if(player1Choice.equals("rock")){
                         displayWinner(ARG_PLAYER_TWO);
                     }
                     else{
@@ -175,10 +175,10 @@ public class PlayFragment extends Fragment {
                 }
                 else{
                     //TODO
-                    if(player1Choice == "rock"){
+                    if(player1Choice.equals("rock")){
                         displayWinner(ARG_PLAYER_ONE);
                     }
-                    else if(player1Choice == "paper"){
+                    else if(player1Choice.equals("paper")){
                         displayWinner(ARG_PLAYER_TWO);
                     }
                     else{
@@ -203,7 +203,7 @@ public class PlayFragment extends Fragment {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         //TODO start a rematch!
-                        Intent rematch = new Intent(getContext(), PlayActivity.class);
+                        Intent rematch = new Intent(getActivity(), PlayActivity.class);
                         startActivity(rematch);
                     }
                 })
@@ -211,7 +211,7 @@ public class PlayFragment extends Fragment {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         //TODO back out the the start screen
-                        Intent quit = new Intent(getContext(), MainActivity.class);
+                        Intent quit = new Intent(getActivity(), MainActivity.class);
                         startActivity(quit);
                     }
                 })
